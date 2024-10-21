@@ -29,7 +29,7 @@ export default function App() {
 
       switch (actionId) {
         case "1":
-          console.log("Verr todos");
+          console.log("Ver todos");
           break;
         case "2":
           console.log("Ver pedido");
